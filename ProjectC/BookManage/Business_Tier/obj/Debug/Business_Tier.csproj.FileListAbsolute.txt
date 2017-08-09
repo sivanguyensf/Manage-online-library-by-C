@@ -1,0 +1,7 @@
+E:\Edu\C#\Project\ProjectC\BookManage\Business_Tier\bin\Debug\Business_Tier.dll
+E:\Edu\C#\Project\ProjectC\BookManage\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\Edu\C#\Project\ProjectC\BookManage\Business_Tier\bin\Debug\DataProvider.dll
+E:\Edu\C#\Project\ProjectC\BookManage\Business_Tier\bin\Debug\DataProvider.pdb
+E:\Edu\C#\Project\ProjectC\BookManage\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+E:\Edu\C#\Project\ProjectC\BookManage\Business_Tier\obj\Debug\Business_Tier.dll
+E:\Edu\C#\Project\ProjectC\BookManage\Business_Tier\obj\Debug\Business_Tier.pdb

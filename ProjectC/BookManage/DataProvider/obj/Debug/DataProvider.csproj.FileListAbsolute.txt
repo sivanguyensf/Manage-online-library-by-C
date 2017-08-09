@@ -1,0 +1,15 @@
+D:\TestCode\WIN\Finish\Demo_CRUD_3Tier\DataProvider\bin\Debug\DataProvider.dll
+D:\TestCode\WIN\Finish\Demo_CRUD_3Tier\DataProvider\bin\Debug\DataProvider.pdb
+D:\TestCode\WIN\Finish\Demo_CRUD_3Tier\DataProvider\obj\Debug\DataProvider.csprojResolveAssemblyReference.cache
+D:\TestCode\WIN\Finish\Demo_CRUD_3Tier\DataProvider\obj\Debug\DataProvider.dll
+D:\TestCode\WIN\Finish\Demo_CRUD_3Tier\DataProvider\obj\Debug\DataProvider.pdb
+E:\Edu\C#\Do\nop\Assignment4\DataProvider\bin\Debug\DataProvider.dll
+E:\Edu\C#\Do\nop\Assignment4\DataProvider\bin\Debug\DataProvider.pdb
+E:\Edu\C#\Do\nop\Assignment4\DataProvider\obj\Debug\DataProvider.csprojResolveAssemblyReference.cache
+E:\Edu\C#\Do\nop\Assignment4\DataProvider\obj\Debug\DataProvider.dll
+E:\Edu\C#\Do\nop\Assignment4\DataProvider\obj\Debug\DataProvider.pdb
+E:\Edu\C#\Project\ProjectC\BookManage\DataProvider\bin\Debug\DataProvider.dll
+E:\Edu\C#\Project\ProjectC\BookManage\DataProvider\bin\Debug\DataProvider.pdb
+E:\Edu\C#\Project\ProjectC\BookManage\DataProvider\obj\Debug\DataProvider.csprojResolveAssemblyReference.cache
+E:\Edu\C#\Project\ProjectC\BookManage\DataProvider\obj\Debug\DataProvider.dll
+E:\Edu\C#\Project\ProjectC\BookManage\DataProvider\obj\Debug\DataProvider.pdb
